@@ -1,3 +1,5 @@
 jsonAcknowledging.txt
 jsonAgreeing.txt
 jsonAngry.txt
+jsonHandShake.txt
+jsonBash.txt
