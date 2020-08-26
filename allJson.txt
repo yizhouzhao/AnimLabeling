@@ -3,3 +3,6 @@ jsonAgreeing.txt
 jsonAngry.txt
 jsonHandShake.txt
 jsonBash.txt
+jsonKiss.txt
+jsonBored.txt
+jsonIdle.txt

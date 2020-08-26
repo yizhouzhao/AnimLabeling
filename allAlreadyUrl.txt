@@ -3,3 +3,6 @@ alreadyUrlAgreeing.txt
 alreadyUrlAngry.txt
 alreadyUrlHandShake.txt
 alreadyUrlBash.txt
+alreadyUrlKiss.txt
+alreadyUrlBored.txt
+alreadyUrlIdle.txt
